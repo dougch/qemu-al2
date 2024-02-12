@@ -13,7 +13,7 @@
 # permissions and limitations under the License.
 #
 
-# The Al2 verion at https://cdn.amazonlinux.com/os-images/2.0.20230628.0/
+# The Al2 version at https://cdn.amazonlinux.com/os-images/2.0.20230628.0/
 # ships with the 4.x kernel, an update and reboot is required.
 # https://repost.aws/knowledge-center/amazon-linux-2-kernel-upgrade
 sudo amazon-linux-extras install kernel-5.15 -y
